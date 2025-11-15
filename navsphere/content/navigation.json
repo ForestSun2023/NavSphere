@@ -25,14 +25,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "428d0ba1-78f8-48d6-83db-f837f3830e1f",
-          "title": "多媒体",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "eb656a11-5442-4670-9cb6-9ba9bd08682f",
           "title": "AI 代码生成助手",
           "icon": "Book",
